@@ -1,3 +1,4 @@
+<img src="https://github.com/vanillateahouse/vanillateahouse/blob/main/me.png"></img>
 ### Hi there 👋
 
 <!--
